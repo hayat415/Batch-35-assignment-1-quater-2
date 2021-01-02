@@ -127,7 +127,7 @@ def function5():
 def function6():
     # Create a null vector of size 10 but the fifth and eighth value which is 10,20 respectively
    
-    arr = #wrtie your code here
+    arr = arr=np.zeros(10) arr[4:6]=10,20 #wrtie your code here
   
     return arr
    
